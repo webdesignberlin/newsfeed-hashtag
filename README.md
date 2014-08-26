@@ -1,2 +1,2 @@
-newsfeed-hashtag
+Hashtag Newsfeed
 ================
