@@ -23,7 +23,7 @@
 
                 </aside>
                 <footer>
-
+                    <p>Author</p>       
                 </footer>
             </article>
         </li>
